@@ -1,0 +1,1 @@
+sudo mongod --dbpath=/Users/junyoung/data/db --logpath=/Users/junyoung/data/log/db/mongo.log
